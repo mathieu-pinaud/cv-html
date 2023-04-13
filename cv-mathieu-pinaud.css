@@ -1,0 +1,54 @@
+
+h1 {
+    margin: 0;
+    font-size: 5em;
+    text-shadow: 3px 3px 1px white;
+    font-family: 'Bebas Neue', cursive;
+    text-align: right;
+}
+
+header > em {
+    font-size: 1.5em;
+    opacity: 0.75;
+    width: 600px;
+}
+
+body {
+    width: 900px;
+    margin: 0 auto;
+    background-color: #eecd9e;
+    padding: 1em;
+}
+  
+#colonne_gauche {
+    padding: 1em;
+    width: 300px;
+    background-color: #5a9d9a;
+    color: #1c1103;
+    margin: 0px;
+}
+
+#mes_infos {
+    font-size: 1.25em;
+    font-weight: 300;
+    list-style-type: none;
+}
+
+#colonne_droite {
+    width: 600px;
+    background-color: #ffffff;
+}
+
+dt {
+    margin: 1em;
+}
+
+li {
+    list-style-type: disc;
+}
+
+li > em {
+
+    color: darkkhaki;
+}
+  
