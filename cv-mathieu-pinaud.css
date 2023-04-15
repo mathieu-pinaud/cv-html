@@ -19,6 +19,10 @@ body {
     background-color: #eecd9e;
     padding: 1em;
 }
+
+main {
+    display: flex;
+}
   
 #colonne_gauche {
     padding: 1em;
